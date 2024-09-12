@@ -1,0 +1,6 @@
+take pole
+go north
+catch fish with pole
+go south
+go east
+give fish to wolf
